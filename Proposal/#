@@ -1,0 +1,132 @@
+
+Social&Mobile Computing
+DECO3500
+
+
+
+
+
+
+
+Team Name
+TripleKill
+
+
+
+Team Member
+ZHIYAO LI (43789160)
+ZHENYU CHEN (43447219)
+SHANGJIE DU (43401275)
+
+
+
+
+
+
+
+
+1.0 INTRODUCTION
+In our daily life, every day we meet almost same people and we make friends mainly by work, study, etc. As a result, it is difficult to meet new people and make friends with them. In addition, people often have trouble in getting information around them. For example, in St Lucia, there is a car accident leading to a heavy traffic jam, but people do not know this and continue to go there. This will let them get stuck in the traffic jam. 
+
+Considering this, our team designs an APP, called “Around You” which is based on GPS location function to solve the above-mentioned issues.
+
+In order to solve the above-mentioned issues, our team aims to design an APP, called “Around You”. Firstly, our goal is to help people know strangers around them and make friends with them, which breaks the limitation of making friends and expend circle of friends. Secondly, we focus on helping people have a good understanding of information(the news) around them. 
+
+2.0 CONCEPT
+2.1 Main Function：
+Our app includes two functions, “Social” and “News”. To be specific:
+ Social Function.
+Users log in
+Users can upload photos, update their states, etc.
+Due to its location function, all information of users is able to be founded by people using this app as well as around users meantime.
+Users can comment other people’s states or they can chat with each other directly.
+The scope is defined as 1 km based on GPS.
+ 
+ News Function.
+1. Users who are willing to post news need to provide their real name and related phone number.
+2. The private information can only be checked by official account in order to protect users privacy.
+3. The severe of news can be selected when people post it and red news is really emergency such as fire and murder. 
+4. The reason why people need to provide their name is avoiding misleading and playing tricks.
+Official account will gather the news update by the users and send to all the users in the same area (but not close enough to find the news in the app)
+The scope is defined as 1 km based on GPS.
+Firstly, our goal is to help people know strangers around them and make friends with them, which breaks the limitation of making friends and expend circle of friends. Secondly, we focus on helping people have a good understanding of information (the news) around them. 
+
+2.2 Target users
+People who need the local news information such as the traffic information.
+People who are interested in finding new friends
+People who are shy to communicate face to face since it is a good platform for them to start communication
+
+3.0 TEAM
+3.1 As a team, we commit to:
+1.	Use our best endeavors and effort at all times.
+2.	Attend all the meeting that have already been scheduled.
+3.	Be passionate and positive about the work we do.
+4.	Appreciate other’s works and give critics and suggestions if needed.
+Team Member：
+Responsibilities：
+Zhiyao LI     (deco3500)
+Manager/back end
+Zhenyu Chen  (deco3500)
+front end, design
+ShangJie Du   (deco3500)
+logistics/content,
+5.	Aim to complete our project task on time.
+
+
+
+
+3.2 How we will make decisions
+1.	Decisions relating to the project should be agreed among all members of the team by giving out several options.
+2.	Once the options are gathered, all team members should analyze and concur to the best decision.
+3.	However, if the team fails to commit to one decision, voting will be done. Once one of the options have the majority of the vote, it will be the final decision of the team.
+4.	Finally, the decision that was made by the team should be followed and supported by the whole team.
+If in any cases, a team member unable to complete its task within the defined timeframe or to the agreed standard, then:
+1.	The team member must explain the problems and obstacles they are facing to other team members.
+2.	Other team members will ask if he/she needs help and give assistance to him/her to complete the assigned task where necessary. 
+3.	If the team member insists that he/she are capable to finish the work, he/she has 48 hours to solve the issue and complete the task.
+4.	If after 48 hours, the team member has not made any progress or sufficient effort to rectify these issues, the Scrum Master will notify the corresponding team member of their actions and contact class Tutors for advice and further action.
+4.0 COMMUNICATIONS
+4.1 Meeting 
+Aside from our regular weekly meeting due to the course commitment. The time and place for this additional meeting will be in bio library every Tuesday. Some of the regulation regarding the meeting that we have already agreed includes:
+1.	The weekly meeting will have conducted for an hour and will be attended by all team member.
+2.	Meeting attendance is obligatory, subject only to illness or other unavoidable personal commitments.
+3.	Try to be punctual on the meeting unless already give a notice beforehand.
+4.	Every material and report for the meeting must be prepared beforehand.
+5.	Do our best to participate in all meetings.
+6.	Each meeting will create goals that will be completed on the next meeting.
+7.	If by any means face to face meeting is not possible to be held, weekly meeting will still be held through video call 
+4.2 How we will communicate
+1.	Our main method of communication within our team will be through Facebook or email.
+2.	We will respond to any communications within 24 hours.
+3.	When communicating through email, all carbon copies of those emails will be sent to the group members, the client and the course email address.
+4.	Any issues that need to be dealt with quickly will be communicated by either face to face or via Facebook message.
+
+4.3 How we will manage work
+1.	All works are splitted into tasks and posted on Google drive.
+2.	Team members will choose tasks that have not been assigned and commit to completing that tasks within a determined time.
+3.	When a task successfully passes User Testing and has been documented, it will be classified as “Done”.
+4.	We are using ITEE Git repository for work processes and version control.
+5.	Weekly meetings, additional resources and other important documents will be uploaded onto Google Drive.
+4.4 File Name Convention
+Avoid extra long folder names and complex hierarchical structures but use information-rich filenames instead.
+2. Put sufficient elements in the structure for easy retrieval and identification but do not overdo it.
+3. Use the underscore (_) as element delimiter. Do not use spaces or other characters such as: ! # $ % & ' @ ^ ` ~ + , . ; = ) (
+
+5.0 PLAN
+
+Start Date               End Date          Task
+
+ 31st Aug					5th Sept         Proposal
+
+ 6th Sept					10th Sept        User story
+
+ 11th Sept                18th Sept        Full detail UI Design
+
+ 19th Sept				30th Sept		    To understand how the core function work
+
+ 1st  Oct					22nd Oct         Create the main function
+
+ 23rd Oct					27th Oct         Recheck everything and complete it
+
+
+
