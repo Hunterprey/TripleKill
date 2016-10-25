@@ -1,2 +1,4 @@
 # TripleKill
-deco3500
+ 
+
+Our project separetes three part. 
