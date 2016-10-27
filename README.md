@@ -12,7 +12,4 @@ TO open those, just need unzip or click each file index.html
 
 ## Within UI:
 All design in the UI file. 
-
-
-
-
+Each UI own dictionary for it, if anywhere get confused, please go check the Dictionary
