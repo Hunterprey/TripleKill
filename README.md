@@ -12,5 +12,6 @@ What is more, in order to fully show the prototype and the progress of our work,
 Moreover, even though there is an Interface Function Dictionary in the report, in order to be more convenient for you to check the interfaces’ function, we construct a separated dictionary and it is placed in the outside.
 
 
-
+Here is our link of Promotion Video:
+https://youtu.be/mPIm5JZbRMM
 
